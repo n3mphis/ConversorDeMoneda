@@ -1,0 +1,1 @@
+Simple conversor de moneda. Por ahora no tengo ningun cambio significativo
